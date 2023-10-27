@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChinoJones
+Damarcus Jones- 👋 Hi, I’m @ChinoJones
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...java, kotlin, linux
 - 💞️ I’m looking to collaborate on ... a project getting money
